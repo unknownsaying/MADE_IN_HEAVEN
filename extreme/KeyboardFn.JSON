@@ -1,0 +1,84 @@
+{
+    "title": "MacOS Function Key Defaults",
+    "description": "Default behavior of F1-F12 keys on macOS (with and without Fn key)",
+    "keys": [
+      {
+        "key": "F1",
+        "default_action": "Decrease display brightness",
+        "fn_action": "F1 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F2",
+        "default_action": "Increase display brightness",
+        "fn_action": "F2 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F3",
+        "default_action": "Mission Control (show all windows)",
+        "fn_action": "F3 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F4",
+        "default_action": "Launchpad (open app launcher)",
+        "fn_action": "F4 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F5",
+        "default_action": "Decrease keyboard backlight (if supported)",
+        "fn_action": "F5 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F6",
+        "default_action": "Increase keyboard backlight (if supported)",
+        "fn_action": "F6 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F7",
+        "default_action": "Previous track (media control)",
+        "fn_action": "F7 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F8",
+        "default_action": "Play/Pause (media control)",
+        "fn_action": "F8 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F9",
+        "default_action": "Next track (media control)",
+        "fn_action": "F9 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F10",
+        "default_action": "Mute audio",
+        "fn_action": "F10 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F11",
+        "default_action": "Decrease volume",
+        "fn_action": "F11 (standard function key)",
+        "system_override": true
+      },
+      {
+        "key": "F12",
+        "default_action": "Increase volume",
+        "fn_action": "F12 (standard function key)",
+        "system_override": true
+      }
+    ],
+    "notes": [
+      "By default, macOS treats F1-F12 as system/media controls unless the 'Fn' key is pressed.",
+      "To reverse this behavior (use F1-F12 as standard keys by default), go to:",
+      "System Preferences > Keyboard > 'Use F1, F2, etc. keys as standard function keys'.",
+      "Some keys (e.g., F5/F6) only work on MacBooks with keyboard backlighting."
+    ]
+  }
