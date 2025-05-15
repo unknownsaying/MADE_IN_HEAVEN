@@ -1,4 +1,4 @@
-// Interfaces
+
 interface E {
   id: number;
   triggerEvent(): void;
@@ -7,7 +7,7 @@ interface F {
   data: unknown;
   serialize(): string;
 }
-// Namespaces
+
 namespace G {
   export interface MathUtils {
     add(a: number, b: number): number;
@@ -17,7 +17,6 @@ namespace G {
     add(a: number, b: number) {
       return a + b;
     }
-
     subtract(a: number, b: number) {
       return a - b;
     }
