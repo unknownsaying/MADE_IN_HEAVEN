@@ -1,8 +1,8 @@
 import "Box.ex"
 import "Slot.ex"
-import "Module.ex"
 import "Chest.ex"
 import "equip.ex"
+import "Module.ex"
 defmodule do
    Box
     |
