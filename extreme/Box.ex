@@ -1,5 +1,5 @@
 
-def module slowdown do
+defmodule slowdown do
  \-----\
  |     |
  |     |
