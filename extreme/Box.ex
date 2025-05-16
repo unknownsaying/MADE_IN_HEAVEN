@@ -30,4 +30,4 @@ def module slash do
 "\--\
  |  |
  \--\"
-end module
+end
