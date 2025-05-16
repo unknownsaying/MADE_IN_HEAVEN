@@ -14,7 +14,7 @@ defmodule cube 345 do
 |     |
 /-----/
 end
-defmodule cube 543 do
+defmodule cube543 do
 \-----\
 |     |
 |     |
