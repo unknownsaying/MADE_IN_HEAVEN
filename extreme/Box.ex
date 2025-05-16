@@ -14,7 +14,6 @@ defmodule slowdown do
  \--\
  |  |
  \--\
-end
 def module speedup do
  /--/
  |  |
@@ -30,4 +29,5 @@ def module speedup do
  |     |
  |     |
  /-----/
+end
 end
