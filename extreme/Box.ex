@@ -15,7 +15,7 @@ def module div do
  /-----/"
 end
 
-defmodule slash do
+def module slash do
 "\-----\
  |     |
  |     |
@@ -30,4 +30,4 @@ defmodule slash do
 "\--\
  |  |
  \--\"
-end
+end module
