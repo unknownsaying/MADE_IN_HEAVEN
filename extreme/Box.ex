@@ -1,4 +1,4 @@
-defmodule cube 345 do
+defmodule div do
 /--/
 |  |
 /--/
@@ -14,7 +14,7 @@ defmodule cube 345 do
 |     |
 /-----/
 end
-defmodule cube543 do
+defmodule slash do
 \-----\
 |     |
 |     |
