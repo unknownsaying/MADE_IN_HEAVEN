@@ -29,5 +29,5 @@ def module slash do
 
 "\--\
  |  |
- \--\"
+ \--\'"
 end
