@@ -1,4 +1,4 @@
-defmodule cube345 do
+defmodule cube 345 do
 /--/
 |  |
 /--/
