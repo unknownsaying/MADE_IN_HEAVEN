@@ -1,4 +1,4 @@
-defmodule div do
+def module div do
 /--/
 |  |
 /--/
@@ -14,7 +14,8 @@ defmodule div do
 |     |
 /-----/
 end
-defmodule slash do
+
+def module slash do
 \-----\
 |     |
 |     |
