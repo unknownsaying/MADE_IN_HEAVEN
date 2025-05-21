@@ -5,7 +5,7 @@ void Switch(){
     case2:
     "inline && extern";
     case3:
-    "sizeof && mallocof";
+    "sizeof && malloc";
     case4:
     "if || else";
     case5:
