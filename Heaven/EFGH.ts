@@ -13,8 +13,8 @@ interface F {
 
 namespace G {
   export interface MathUtils {
-    add(a: number, b: number): number;
-    subtract(a: number, b: number): number;
+    add(a: number, b: number);
+    subtract(a: number, b: number);
   }
   export class Calculator implements MathUtils {
     add(a: number, b: number) {
