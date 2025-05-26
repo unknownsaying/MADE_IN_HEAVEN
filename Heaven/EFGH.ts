@@ -1,4 +1,7 @@
-
+E : "|\/|"
+F : "|/\|"
+G : "|\|"
+H : "|/|"
 interface E {
   id: number;
   triggerEvent(): void;
